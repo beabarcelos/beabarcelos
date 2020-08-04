@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Beatriz Barcelos
+
+## Olá 👋
+Tecnologia e resolução de problemas é a área em que quero atuar!
+:sweat_smile: Atualmente trabalho na TechnipFMC na área de Comércio exterior
+<br/> :rocket: Busco me desenvolver na carreira de Tecnologia
+<br/> :purple_heart: Sim, sou super iniciante! Tenho muita vontade de aprender e preencher esse Github com muitos projetos!
+<br/> :two_hearts: Sobre mim: Adoro ficção científica, séries e jogos online
+<br/> Contato:
+<br/> :email: beatrizferreira.barcelos@gmail.com
+<br/> :woman: https://www.linkedin.com/in/barcelos-beatriz/
+
+
