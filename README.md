@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 # Beatriz Barcelos
 
-## Olá 👋
-Tecnologia e resolução de problemas é a área em que quero atuar!
-<br/> :sweat_smile: Atualmente trabalho na TechnipFMC na área de Comércio exterior
-<br/> :rocket: Busco me desenvolver na carreira de Tecnologia
-<br/> :purple_heart: Sim, sou super iniciante! Tenho muita vontade de aprender e preencher esse Github com muitos projetos!
+## Eai 👋
+Entusiasta em ciência de dados e Machine Learning! Apaixonada por tecnologia
+
+<br/> :rocket: Busco desenvolver minhas habilidades em TI
+<br/> :purple_heart: Tenho muita vontade de aprender e preencher esse Github com muitos projetos!
 <br/> :two_hearts: Sobre mim: Adoro ficção científica, séries e jogos online
 <br/> Contato:
 <br/> :email: beatrizferreira.barcelos@gmail.com
