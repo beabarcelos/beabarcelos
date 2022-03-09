@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Engenheira de dados & Entusiasta em ciência de dados e Machine Learning! Apaixonada por tecnologia
 <br/> :rocket: Busco desenvolver minhas habilidades em TI
 <br/> :purple_heart: Tenho muita vontade de aprender e preencher esse Github com muitos projetos!
-<br/> :two_hearts: Sobre mim: Adoro ficção científica, séries e jogos online
+<br/> :two_hearts: Sobre mim: Adoro ficção científica, séries e sou faixa branca de Jiu Jitsu
 <br/> Contato:
 <br/> :email: beatrizferreira.barcelos@gmail.com
 <br/> :woman: https://www.linkedin.com/in/barcelos-beatriz/
